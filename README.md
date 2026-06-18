@@ -1,32 +1,25 @@
-# Jorge Sereghetti Neto 👋
+![Banner](profile_banner.png)
 
-### Consultor de IA para Negócios • Builder de Agentes de IA e Automação • MBA em IA para Negócios
-📍 São Paulo, SP · 📞 (11) 98798-9089 · ✉️ jorgesereghetti@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/jorge-sereghetti-ba4698363)
+# Hi 👋, I'm Jorge Sereghetti
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+- 🤖 **Consultor de IA para Negócios** • **Builder de Agentes de IA e Automação** • **MBA em IA para Negócios**
+- 🇧🇷 **São Paulo, SP - Brasil**
+- ✉️ **jorgesereghetti@gmail.com** · 📞 **(11) 98798-9089**
 
-### 🤖 Inteligência Artificial & Agentes
-![Claude API](https://img.shields.io/badge/Claude%20API-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=gitbook&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8e75c2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Zaia Endless](https://img.shields.io/badge/Zaia%20Endless-00C8FF?style=for-the-badge&logo=probot&logoColor=white)
+Eu construo sistemas baseados em IA de ponta a ponta — desde pipelines de dados e agentes conversacionais com controle de contexto até dashboards de gestão e sistemas operacionais integrados.
 
-### ⚙️ Orquestração & Banco de Dados
-![n8n](https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+Enquanto a maioria das pessoas apenas usa IA, meu foco é **desenvolvê-la e integrá-la (engineering it)**.
 
-### 💻 Desenvolvimento & BI
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+---
+
+### 🌐 Where to find me
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jorgesereghetti)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-sereghetti-ba4698363)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgesereghetti@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511987989089)
 
 ---
 
