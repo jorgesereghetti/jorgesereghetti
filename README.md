@@ -1,8 +1,7 @@
-# Olá, eu sou o Jorge Sereghetti! 👋
+# Jorge Sereghetti Neto 👋
 
-### Consultor de IA para Negócios • Builder de Agentes de IA & Automação de Processos
-
-Especialista em desenhar e construir soluções completas de Inteligência Artificial e automação. Minha atuação conecta tecnologia e negócios por meio da criação de agentes conversacionais inteligentes (AI Agents), orquestração de LLMs, pipelines RAG e desenvolvimento de painéis/sistemas operacionais sob medida.
+### Consultor de IA para Negócios • Builder de Agentes de IA e Automação • MBA em IA para Negócios
+📍 São Paulo, SP · 📞 (11) 98798-9089 · ✉️ jorgesereghetti@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/jorge-sereghetti-ba4698363)
 
 ---
 
@@ -12,7 +11,7 @@ Especialista em desenhar e construir soluções completas de Inteligência Artif
 ![Claude API](https://img.shields.io/badge/Claude%20API-d97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Model Context Protocol](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=gitbook&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-8e75c2?style=for-the-badge&logo=google-gemini&logoColor=white)
-![GPT-4](https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Zaia Endless](https://img.shields.io/badge/Zaia%20Endless-00C8FF?style=for-the-badge&logo=probot&logoColor=white)
 
 ### ⚙️ Orquestração & Banco de Dados
@@ -31,51 +30,89 @@ Especialista em desenhar e construir soluções completas de Inteligência Artif
 
 ---
 
-## 🚀 Portfólio de Projetos
+## 🎯 Objetivo Profissional
 
-Abaixo estão os principais projetos e sistemas integrados que desenvolvi (clique nos links para acessar os repositórios):
+Profissional de tecnologia especializado em IA para Negócios, focado na entrega de soluções completas e personalizadas — desde a estruturação de agentes conversacionais (AI Agents) e arquitetura de fluxos com controle de contexto e roteamento inteligente, até o desenvolvimento de sistemas operacionais e painéis de gestão integrados.
 
-*   🤖 **[agente-clinica-n8n](https://github.com/jorgesereghetti/agente-clinica-n8n)**
-    *   *Automação de Atendimento e Triagem*: Fluxo orquestrado no n8n integrado com WhatsApp, Google Calendar e banco de dados Supabase para cadastro e agendamento automatizado de pacientes de estética.
-*   ✉️ **[disparo-whatsapp-n8n](https://github.com/jorgesereghetti/disparo-whatsapp-n8n)**
-    *   *Disparo em Massa Inteligente*: Sistema de broadcast no WhatsApp integrado com planilhas Google Sheets e LLM (Gemini) para personalização dinâmica de mensagens de prospecção e controle automático de opt-out (respostas negativas).
-*   🛒 **[painel-delivery](https://github.com/jorgesereghetti/painel-delivery)**
-    *   *SaaS para Setor Gastronômico*: Painel operacional em tempo real (Kanban de pedidos, tela da cozinha e dashboard financeiro) integrado a um agente de IA para atendimento via WhatsApp com persistência Supabase MCP.
-*   🏥 **[painel-vitaskin](https://github.com/jorgesereghetti/painel-vitaskin)**
-    *   *SaaS Clínicas de Estética*: Dashboard completo e interativo para gestão de consultas, leads e prontuários médicos integrados ao agente virtual.
-*   💻 **[assistente-dev-python](https://github.com/jorgesereghetti/assistente-dev-python)**
-    *   *Assistente de Código*: FastAPI app (PyCoder) com interface de chat premium em tema escuro e suporte a múltiplos LLM providers (Groq, OpenAI, Gemini) direto do navegador.
-*   🔍 **[busca-vagas](https://github.com/jorgesereghetti/busca-vagas)**
-    *   *Buscador de Empregos com IA*: Pipeline inteligente para busca e mapeamento automatizado de vagas.
+Atuar em posições voltadas à aplicação e gestão de Inteligência Artificial e automação de processos. Busco aplicar minha experiência no levantamento de requisitos e desenho de arquiteturas funcionais para conectar áreas técnicas e de negócio. Meu foco é desenvolver soluções baseadas em agentes de IA, RAG, integração de APIs e orquestração de fluxos (LLM Orchestration) que tragam eficiência operacional, organização de dados e valor real para a empresa, mantendo sempre o aprendizado contínuo.
 
 ---
 
-## 💼 Experiência & Trajetória
+## 💼 Experiência Profissional
 
-*   **Consultor de IA para Negócios & Automações (2025 - Atual)**:
-    *   Desenvolvimento de orquestrações complexas de dados e agentes conversacionais.
-    *   Criação de RAGs corporativos, pipelines de monitoramento inteligente (eliminando 100% de tarefas manuais) e integrações de APIs REST/Webhooks.
-    *   Mentoria técnica em desenvolvimento e arquitetura conversacional.
-*   **Chef de Cozinha (2016 - 2025)**:
-    *   Liderança de equipes, gestão de custos (CMV), otimização de recursos e operações dinâmicas sob alta pressão.
-*   **Analista de Infraestrutura de TI (2010 - 2015)**:
-    *   Administração de servidores Windows, AD, DNS, DHCP, Exchange, segurança de redes e projetos críticos de migração de datacenter (HSBC, Prosegur, Secretaria de Transportes/SP).
+### Consultor de IA para Negócios | Autônomo | Parcerias com Agências
+*Ago/2025 – Atual*
+
+Atuação focada no desenvolvimento de soluções digitais, orquestração de fluxos de dados e implementação de Agentes de IA.
+
+*   **SaaS Autônomo para Delivery**: Desenvolvimento full-stack de sistema escalável para o setor gastronômico. A solução integra um agente de IA para atendimento via WhatsApp (construído na plataforma Zaia Endless) com persistência de dados no Supabase utilizando MCP (Model Context Protocol) nativo. O painel de gestão da operação (Kanban de pedidos, tela da cozinha, impressão de comandas e dashboard financeiro) foi codificado integralmente com Claude Code, consumindo os dados em tempo real via conexão MCP.
+    *Stack: Zaia Endless, Supabase MCP, Claude Code, Google Stitch, Antigravity.*
+*   **Sistema de Atendimento para Clínica de Estética**: Solução end-to-end com agente de IA via WhatsApp para atendimento, cadastro automatizado de pacientes e agendamento inteligente, com persistência via MCP Supabase e sincronização com Google Calendar. Frontend desenvolvido em Claude Code exibe painel com histórico de pacientes, agenda médica e informações em tempo real.
+    *Stack: Zaia Endless, Supabase MCP, Google Calendar MCP, Claude Code, Claude Design.*
+*   **Agente de Atendimento para Clínica de Fisioterapia**: 30% dos agendamentos passaram a ser realizados automaticamente por IA via WhatsApp, sem intervenção manual nesses casos. Agente conversacional integrado à API da clínica: realiza triagem para agendamento, consulta disponibilidade de agenda, efetua cadastro de novos pacientes, responde dúvidas frequentes (FAQ) e gerencia fluxo de afiliação.
+    *Stack: Zaia, Zaia Endless (migração em andamento), API da Clínica, WhatsApp API.*
+*   **Agente SDR de IA para Agência de Marketing Digital**: Agente autônomo de pré-venda via WhatsApp: conduz funil de qualificação até o agendamento, dispara follow-up automático e envia avisos/lembretes de reunião.
+    *Stack: n8n, Evolution API, RD Station.*
+*   **Automação de Disparos em Massa — App Meu Instrutor CNH**: Automação de comunicação em escala sobre base de 46 mil instrutores cadastrados: schedule aciona loop de disparos via WhatsApp; cada mensagem passa por LLM Chain que personaliza o conteúdo dinamicamente antes do envio.
+    *Stack: n8n, Evolution API, LLM Chain, Sheets.*
+*   **Pipeline de Monitoramento Inteligente com RAG — Empresa B2B**: Eliminou 100% do processo de monitoramento manual: 4 schedules paralelos consomem dados via API de fontes distintas; agente realiza RAG com banco vetorial e classifica informações por urgência via LangChain. Itens críticos disparam e-mail imediato com resumo executivo; demais registros consolidados em digest semanal automatizado.
+    *Stack: n8n, LangChain, Banco Vetorial, Agente de IA, API REST.*
+*   **Suporte e Mentoria Técnica — Plataforma Zaia**: Referência técnica para freelancers e usuários: suporte na construção de agentes, resolução de bloqueios e mentorias sobre arquitetura de fluxos conversacionais, boas práticas e estratégias de implantação.
+    *Stack: Zaia, Zaia Endless.*
+
+#### Capacidades Transversais:
+*   Levantamento de requisitos, mapeamento de processos e desenho de fluxos conversacionais multi-estágio com controle de contexto, persistência de estado e roteamento inteligente para atendimento humano.
+*   RAG e bancos vetoriais (LangChain): pipelines de recuperação e geração aumentada para análise, classificação e enriquecimento de dados não estruturados.
+*   Automação e Orquestração (n8n): fluxos com schedules, Webhooks, APIs REST e JSON para integração entre CRMs, plataformas de IA e sistemas externos.
+*   Desenvolvimento assistido por IA (Claude Code): frontends, painéis de gestão e scripts Python para automações locais.
+*   Automação de Prospecção (Claude Cowork + Notion CRM) e desenvolvimento web (Google Stitch + Antigravity).
+*   Automações internas aplicadas ao próprio fluxo de trabalho: prospecção B2B (identificação de agências de marketing/IA) e mapeamento de oportunidades de vaga, usando o mesmo stack que entrego para clientes.
+*   Business Intelligence: dashboards estratégicos em Power BI para KPIs e suporte à decisão.
 
 ---
 
-## 🎓 Formação Acadêmica & Certificações
+### Chef de Cozinha | Restaurantes Diversos
+*2016 – 2025*
 
-*   **MBA em Inteligência Artificial para Negócios** — XP Educação (2025)
+*   Liderança de equipes de até 20 pessoas em ambientes de alta pressão, garantindo qualidade, padronização e tempo de saída.
+*   Gestão de processos de cozinha, controles de custos (CMV) e acompanhamento de indicadores operacionais.
+*   Negociação com fornecedores e implantação de rotinas de controle financeiro e de estoque.
+*   Desenvolvimento de soluções criativas em cenários de restrição, otimizando recursos e reduzindo desperdícios.
+*   Experiência em treinamento de equipe, organização de operação e melhoria contínua.
+
+---
+
+### Analista de Infraestrutura de TI | Sec. Transportes/SP, Prosegur, HSBC LATAM, CSC
+*2010 – 2015*
+
+*   Administração de servidores Windows (2003/2008), Active Directory, DNS, DHCP, Exchange e rotinas de backup.
+*   Participação em projeto de migração de Data Center com 0% de downtime, garantindo continuidade das operações.
+*   Suporte N2/VIP em ambientes críticos, com foco em disponibilidade, segurança e tempo de resposta curto para diretoria e usuários-chave.
+*   Interface entre cliente e fábrica de software, apoiando na definição e acompanhamento de demandas de tecnologia.
+
+---
+
+## 🎓 Formação Acadêmica
+
+*   **MBA em Inteligência Artificial para Negócios** — XP Educação (Concluído Dez/2025)
 *   **Tecnologia em Informática para Gestão de Negócios** — FATEC (2010)
 *   **Gastronomo** — Hotec (2017)
-*   **Certificações de IA**: MCP (Model Context Protocol), Claude API, Multi-Agent Orchestration, Claude Code e AI Fluency (Anthropic Academy, 2026), Santander Academy (n8n, 2025).
 
 ---
 
-## ✉️ Contato & Redes
+## 📜 Certificações e Cursos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-sereghetti-ba4698363)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgesereghetti@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511987989089)
+*   **Building with the Claude API, Model Context Protocol (MCP), Orquestração de Sistemas Multiagentes, Claude Code e AI Fluency** — Anthropic Academy (2026)
+*   **Automação com n8n** — Santander Academy (2025)
+*   **Power BI** — Data Science Academy (2025)
+*   **Python** — Data Science Academy (em andamento)
+*   **Scrum & Kanban Fundamentals Certified** — VMEdu ScrumStudy (2025)
+*   **Minicamp Data Beginner** — XP Educação (2025)
+*   Cursos complementares em BPM, Análise de Requisitos, Modelagem, Métodos Ágeis e Governança.
 
-📍 São Paulo, SP
+---
+
+## 🌍 Idiomas
+
+*   **Espanhol**: Avançado
+*   **Inglês**: Técnico (em aprendizado)
