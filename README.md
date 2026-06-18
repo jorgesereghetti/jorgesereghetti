@@ -6,7 +6,7 @@
 - 🇧🇷 **São Paulo, SP - Brasil**
 - ✉️ **jorgesereghetti@gmail.com** · 📞 **(11) 98798-9089**
 
-Eu construo sistemas baseados em IA de ponta a ponta — desde pipelines de dados e agentes conversacionais com controle de contexto até dashboards de gestão e sistemas operacionais integrados.
+Eu construo sistemas baseados em IA de ponta a ponta, desde pipelines de dados e agentes conversacionais com controle de contexto até dashboards de gestão e sistemas operacionais integrados.
 
 ---
 
