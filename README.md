@@ -1,6 +1,4 @@
-![Banner](profile_banner.png)
-
-# Hi 👋, I'm Jorge Sereghetti
+# Hi 👋, I'm Jorge Sereghetti Neto
 
 ---
 
@@ -9,8 +7,6 @@
 - ✉️ **jorgesereghetti@gmail.com** · 📞 **(11) 98798-9089**
 
 Eu construo sistemas baseados em IA de ponta a ponta — desde pipelines de dados e agentes conversacionais com controle de contexto até dashboards de gestão e sistemas operacionais integrados.
-
-Enquanto a maioria das pessoas apenas usa IA, meu foco é **desenvolvê-la e integrá-la (engineering it)**.
 
 ---
 
@@ -38,15 +34,15 @@ Atuar em posições voltadas à aplicação e gestão de Inteligência Artificia
 
 Atuação focada no desenvolvimento de soluções digitais, orquestração de fluxos de dados e implementação de Agentes de IA.
 
-*   **SaaS Autônomo para Delivery**: Desenvolvimento full-stack de sistema escalável para o setor gastronômico. A solução integra um agente de IA para atendimento via WhatsApp (construído na plataforma Zaia Endless) com persistência de dados no Supabase utilizando MCP (Model Context Protocol) nativo. O painel de gestão da operação (Kanban de pedidos, tela da cozinha, impressão de comandas e dashboard financeiro) foi codificado integralmente com Claude Code, consumindo os dados em tempo real via conexão MCP.
+*   **SaaS Autônomo para Delivery**: Desenvolvimento full-stack de sistema escalável para o setor gastronômico. A solução integra um agente de IA para atendimento via WhatsApp (construído na plataforma Zaia Endless) com persistência de dados no Supabase utilizando MCP (Model Context Protocol) nativo. O painel de gestão da operação (Kanban de pedidos, tela da cozinha, impressão de comandas e dashboard financeiro) foi codificado integralmente com Claude Code, consumindo os dados em tempo real via conexão MCP. A implementação eliminou gargalos de comunicação, liberou a equipe física para focar no salão e já está em fase de replicação para novos clientes.
     *Stack: Zaia Endless, Supabase MCP, Claude Code, Google Stitch, Antigravity.*
 *   **Sistema de Atendimento para Clínica de Estética**: Solução end-to-end com agente de IA via WhatsApp para atendimento, cadastro automatizado de pacientes e agendamento inteligente, com persistência via MCP Supabase e sincronização com Google Calendar. Frontend desenvolvido em Claude Code exibe painel com histórico de pacientes, agenda médica e informações em tempo real.
     *Stack: Zaia Endless, Supabase MCP, Google Calendar MCP, Claude Code, Claude Design.*
 *   **Agente de Atendimento para Clínica de Fisioterapia**: 30% dos agendamentos passaram a ser realizados automaticamente por IA via WhatsApp, sem intervenção manual nesses casos. Agente conversacional integrado à API da clínica: realiza triagem para agendamento, consulta disponibilidade de agenda, efetua cadastro de novos pacientes, responde dúvidas frequentes (FAQ) e gerencia fluxo de afiliação.
     *Stack: Zaia, Zaia Endless (migração em andamento), API da Clínica, WhatsApp API.*
-*   **Agente SDR de IA para Agência de Marketing Digital**: Agente autônomo de pré-venda via WhatsApp: conduz funil de qualificação até o agendamento, dispara follow-up automático e envia avisos/lembretes de reunião.
+*   **Agente SDR de IA para Agência de Marketing Digital**: Agente autônomo de pré-venda via WhatsApp: conduz funil de qualificação até o agendamento, dispara follow-up automático e envia avisos/lembretes de reunião. Automatizou o processo de prospecção, reduzindo carga da equipe comercial e aumentando taxa de comparecimento.
     *Stack: n8n, Evolution API, RD Station.*
-*   **Automação de Disparos em Massa — App Meu Instrutor CNH**: Automação de comunicação em escala sobre base de 46 mil instrutores cadastrados: schedule aciona loop de disparos via WhatsApp; cada mensagem passa por LLM Chain que personaliza o conteúdo dinamicamente antes do envio.
+*   **Automação de Disparos em Massa — App Meu Instrutor CNH**: Automação de comunicação em escala sobre base de 46 mil instrutores cadastrados: schedule aciona loop de disparos via WhatsApp; cada mensagem passa por LLM Chain que personaliza o conteúdo dinamicamente antes do envio. Controle de volume e cadência para operar sem risco de ban.
     *Stack: n8n, Evolution API, LLM Chain, Sheets.*
 *   **Pipeline de Monitoramento Inteligente com RAG — Empresa B2B**: Eliminou 100% do processo de monitoramento manual: 4 schedules paralelos consomem dados via API de fontes distintas; agente realiza RAG com banco vetorial e classifica informações por urgência via LangChain. Itens críticos disparam e-mail imediato com resumo executivo; demais registros consolidados em digest semanal automatizado.
     *Stack: n8n, LangChain, Banco Vetorial, Agente de IA, API REST.*
@@ -89,7 +85,7 @@ Atuação focada no desenvolvimento de soluções digitais, orquestração de fl
 
 *   **MBA em Inteligência Artificial para Negócios** — XP Educação (Concluído Dez/2025)
 *   **Tecnologia em Informática para Gestão de Negócios** — FATEC (2010)
-*   **Gastronomo** — Hotec (2017)
+*   **Gastronomia** — Hotec (2017)
 
 ---
 
@@ -105,7 +101,18 @@ Atuação focada no desenvolvimento de soluções digitais, orquestração de fl
 
 ---
 
+## 🛠️ Conhecimentos e Ferramentas
+
+*   **Inteligência Artificial e LLMs**: Claude (API, Code, Cowork, Skills, Subagents, Agent Skills), ChatGPT, Gemini, Perplexity.
+*   **Agentes de IA e Automação**: Zaia Endless, n8n, Make, FiqOn, Prompt Engineering, LLM Orchestration, Fine-tuning.
+*   **RAG, Dados e Integração**: LangChain, Banco Vetorial, Supabase (MCP), Power BI, SQL, APIs REST, Webhooks, JSON, Evolution API, WhatsApp API.
+*   **Desenvolvimento assistido por IA**: Claude Code, Antigravity, Lovable, Codex.
+*   **Design e Prototipagem**: Google Stitch, Claude Design.
+*   **Produtividade e Organização**: MS365, Power Platform, Google Workspace, Notion, Jira, Miro, Draw.io.
+
+---
+
 ## 🌍 Idiomas
 
 *   **Espanhol**: Avançado
-*   **Inglês**: Técnico (em aprendizado)
+*   **Inglês**: Técnico
